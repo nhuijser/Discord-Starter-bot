@@ -1,6 +1,7 @@
 const Discord = require("discord.js"); // Define the library, the coding language basically.
 const botConfig = require("./botconfig.json"); // Tell them what clientconfig is, we'll use it later on to start the client
 const client = new Discord.Client(); // Define the discord client
+const fs = require("fs"); // define fs for commands
 client.commands = new Discord.Collection(); // Make a discord collection for the command handler. 
 const active = new Map(); // Make a new map for active commands
 // You won't need any of the stuff above anymore (most likely) besides "const Discord = require("discord.js");"
