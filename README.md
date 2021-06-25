@@ -17,7 +17,7 @@ Download an IDE [here](https://code.visualstudio.com/)
 
 Load up the project, once done. Download node [here](https://nodejs.org/en/) and restart your IDE.
 
-Use `npm install` to install all the nodules needed. Replace the `token` in botconfig.json with your own bot token from [here](https://discord.dev)
+Use `npm install` to install all the modules needed. Replace the `token` in botconfig.json with your own bot token from [here](https://discord.dev)
 
 Open up terminal by clicking at the top navigation bar and use the command `npm start` or `node .` to start your bot!
 
