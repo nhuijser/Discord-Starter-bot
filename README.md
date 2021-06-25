@@ -2,9 +2,9 @@
 
 <br>
 
-### Starter Discord Bot
+### Starter Discord client
 
-A discord bot for starters to start their journey of coding!
+A discord client for starters to start their journey of coding!
 
 ## What does it include?
 
@@ -17,9 +17,9 @@ Download an IDE [here](https://code.visualstudio.com/)
 
 Load up the project, once done. Download node [here](https://nodejs.org/en/) and restart your IDE.
 
-Use `npm install` to install all the modules needed. Replace the `token` in botconfig.json with your own bot token from [here](https://discord.dev)
+Use `npm install` to install all the modules needed. Replace the `token` in clientconfig.json with your own client token from [here](https://discord.dev)
 
-Open up terminal by clicking at the top navigation bar and use the command `npm start` or `node .` to start your bot!
+Open up terminal by clicking at the top navigation bar and use the command `npm start` or `node .` to start your client!
 
 You can ask for any help in the issues tab, goodluck!
 
