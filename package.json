@@ -1,7 +1,7 @@
 {
-  "name": "Starter client",
+  "name": "starter",
   "version": "0.0.1",
-  "description": "Starter client for Discord",
+  "description": "Starter bot for Discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

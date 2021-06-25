@@ -6,7 +6,7 @@ const discord = require("discord.js"); // define discord
     .setTitle("Woops!")
     .setDescription("You don't have permission to use this command.")
 
-module.exports.run = async (client, message, args) => {
+module.exports.run = async (bot, message, args) => {
     if (!message.member.hasPermissions("MANAGE_MESSAGES")) return message.reply(noPermission); // if user doesnt have the permissions send the error message we made earlier
     let sayMessage = args.join(" "); // make the variable "sayMessage" be the arguments given after the command
     message.delete().catch(); // delete the command after the message is send
