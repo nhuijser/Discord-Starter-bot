@@ -1,8 +1,8 @@
-const discord = require("discord.js"); // define discord
+const Discord = require("discord.js"); // define discord
 
 //All embeds here
 
-    var noPermission = new discord.RichEmbed() // Make embed
+    var noPermission = new Discord.RichEmbed() // Make embed
     .setTitle("Woops!")
     .setDescription("You don't have permission to use this command.")
 
