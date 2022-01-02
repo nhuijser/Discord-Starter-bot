@@ -4,6 +4,10 @@
 
 ### Starter Discord bot
 
+
+### Disclaimer ### 
+This is really bad code, if you consider using it, Please improve it if you're able to
+
 A discord bot for starters to start their journey of coding!
 
 ## What does it include?
